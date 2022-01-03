@@ -1,4 +1,4 @@
-package midterms.first;
+package midterm1;
 
 import java.util.Arrays;
 
