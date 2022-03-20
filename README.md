@@ -1,2 +1,2 @@
 # java-learning
-Java code I have written throughout high school and college
+Code I have written throughout high school and college
