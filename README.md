@@ -1,2 +1,2 @@
 # java-learning
-High School and College Code
+High School Code
